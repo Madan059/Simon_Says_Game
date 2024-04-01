@@ -3,13 +3,12 @@ Description:
 This is a simple implementation of the classic Simon Says game using HTML, CSS, and JavaScript. The game presents a sequence of colors to the player, which they must then replicate by pressing corresponding colored buttons.
 
 Features:
-
 Randomized sequence generation for increased replayability.
 Interactive button feedback through flashing animations.
 Score tracking and level progression.
 Game over detection with the option to restart.
-Game Mechanics:
 
+Game Mechanics:
 Start the game by pressing any key.
 The game will flash a sequence of colors, starting from one and increasing by one each level.
 Repeat the sequence by clicking the buttons in the correct order.
